@@ -1,0 +1,9 @@
+{
+	"resource_pack_name": "Alice no país das maravilhas",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"bridge_potion_pato": {
+			"textures": "textures/items/potionpao"
+		}
+	}
+}

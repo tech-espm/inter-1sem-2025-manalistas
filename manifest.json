@@ -14,8 +14,8 @@
 		}
 	},
 	"header": {
-		"name": "pack.name",
-		"description": "pack.description",
+		"name": "Alice no país das Maravilhas",
+		"description": "Santa Ervilhas",
 		"min_engine_version": [
 			1,
 			21,
