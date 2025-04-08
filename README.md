@@ -9,12 +9,12 @@
 ### 2025-01
 
 ## Integrantes
-- [Nome](https://github.com/xxx)
-- [Nome](https://github.com/xxx)
-- [Nome](https://github.com/xxx)
-- [Nome](https://github.com/xxx)
-- [Nome](https://github.com/xxx)
-- [Nome](https://github.com/xxx)
+- [Betina Volpi](https://github.com/bevolpi)
+- [Evelyn Chiaperini](https://github.com/kiapelyn)
+- [Ihago Nunes](https://github.com/ihagonunes)
+- [Ihan Nunes](https://github.com/Noxzxz)
+- [Maria Eduarda Ortega](https://github.com/maduortega)
+- [Rodrigo Rodrigues](https://github.com/DPFNeiland)
 
 ## Descrição do Projeto
 
