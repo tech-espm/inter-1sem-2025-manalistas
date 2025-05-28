@@ -3,5 +3,21 @@
 	"padding": 8,
 	"resource_pack_name": "Alice no país das maravilhas",
 	"texture_name": "atlas.terrain",
-	"texture_data": {}
+	"texture_data": {
+		"teste_bule": {
+			"textures": "textures/blocks/BULE"
+		},
+		"teste_lata": {
+			"textures": "textures/blocks/LATA"
+		},
+		"teste_xicra": {
+			"textures": "textures/blocks/XICRA"
+		},
+		"teste_xicaranova": {
+			"textures": "textures/blocks/XICRA NOVA"
+		},
+		"teste_triocartinhas": {
+			"textures": "textures/blocks/CARTINHAS"
+		}
+	}
 }

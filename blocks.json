@@ -3,5 +3,20 @@
 		1,
 		1,
 		0
-	]
+	],
+	"teste:bule": {
+		"sound": "stone"
+	},
+	"teste:lata": {
+		"sound": "stone"
+	},
+	"teste:xicra": {
+		"sound": "stone"
+	},
+	"teste:xicaranova": {
+		"sound": "stone"
+	},
+	"teste:triocartinhas": {
+		"sound": "stone"
+	}
 }

@@ -1,2 +1,8 @@
 pack.name=Manalistas
 pack.description=
+tile.teste:bule.name=Bule
+tile.teste:lata.name=Lata de tinta
+tile.teste:xicra.name=Xícara
+tile.teste:xicaranova.name=Xícara com prato
+tile.teste:bule.name=Bule
+tile.teste:triocartinhas.name=Tres cartinhas
