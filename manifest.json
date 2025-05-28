@@ -31,7 +31,17 @@
 	"modules": [
 		{
 			"type": "resources",
-			"uuid": "e223ebe8-c4d0-4ad0-8cb7-58d84520bb30",
+			"uuid": "b37904aa-7e3c-42fd-84f4-1aff66964ef6",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "f4cb5e8a-b7f5-430a-b5c8-4425b842e234",
 			"version": [
 				1,
 				0,
