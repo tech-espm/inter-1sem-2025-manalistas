@@ -20,9 +20,7 @@
 
 O tema escolhido para o desenvolvimento do projeto é a obra Alice no País das Maravilhas do escritor Lewis Carroll. Portanto, como proposta de projeto, tem-se a criação de um mundo no Minecraft inspirado no livro. Utiliza-se partes da história e da estética para criar um ambiente imersivo inspirado no clássico livro de Lewis Carroll. Além disso, conta-se com recursos de textura criados pela equipe via Photoshop, referências de construções da história original, diálogos com NPCs e ambientes interativos. Além de entregar um vídeo apresentando as modificações e cenários de uma forma lúdica.  
 
-### Objetivos: 
-
-- Abaixo, apresentam-se os objetivos do projeto: 
+### Objetivos:  
 
 - Adicionar personagens do universo utilizando NPCs (non-playable character, em português, personagem não jogável);  
 
@@ -40,25 +38,32 @@ O tema escolhido para o desenvolvimento do projeto é a obra Alice no País das 
 
 A seguir, exibe-se o concept board (em português, quadro de conceito) utilizado como inspiração para o desenvolvimento do projeto.
 
+<p align="center">
+       <img src="https://github.com/tech-espm/inter-1sem-2025-manalistas/blob/main/conseptart.png" style="width: 375px;"/>
+</p>
 
 ## Áreas do Mapa
 
-### Área 1
+### Área 1 - Castelo Branco
 
 <p align="center">
-       <img src=" _link do site_ " style="width: 375px;"/>
+       <img src="https://github.com/tech-espm/inter-1sem-2025-manalistas/blob/main/castelobranco.PNG" style="width: 375px;"/>
 </p>
 
-### Área 2
-
 <p align="center">
-       <img src=" _link do site_ " style="width: 375px;"/>
+       <img src="https://github.com/tech-espm/inter-1sem-2025-manalistas/blob/main/castelobranco2.PNG" style="width: 375px;"/>
 </p>
 
-### Área 3
+### Área 2 - Castelo Vermelho
 
 <p align="center">
-       <img src=" _link do site_ " style="width: 375px;"/>
+       <img src="https://github.com/tech-espm/inter-1sem-2025-manalistas/blob/main/castelovermelho.PNG" style="width: 375px;"/>
+</p>
+
+### Área 3 - Sala das Portas
+
+<p align="center">
+       <img src="https://github.com/tech-espm/inter-1sem-2025-manalistas/blob/main/Sala_pocao.PNG" style="width: 375px;"/>
 </p>
 
 ## Desenvolvimento
