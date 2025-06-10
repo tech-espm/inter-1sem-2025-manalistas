@@ -60,6 +60,11 @@ A seguir, exibe-se o concept board (em português, quadro de conceito) utilizado
        <img src="https://github.com/tech-espm/inter-1sem-2025-manalistas/blob/main/castelovermelho.PNG" style="width: 375px;"/>
 </p>
 
+<p align="center">
+       <img src="https://github.com/tech-espm/inter-1sem-2025-manalistas/blob/main/castelovermelho2.PNG" style="width: 375px;"/>
+</p>
+
+
 ### Área 3 - Sala das Portas
 
 <p align="center">
