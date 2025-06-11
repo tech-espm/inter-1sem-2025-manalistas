@@ -71,13 +71,39 @@ A seguir, exibe-se o concept board (em português, quadro de conceito) utilizado
        <img src="https://github.com/tech-espm/inter-1sem-2025-manalistas/blob/main/Sala_pocao.PNG" style="width: 375px;"/>
 </p>
 
+### Área 4 - Gato Risonho
+
+<p align="center">
+       <img src="https://github.com/tech-espm/inter-1sem-2025-manalistas/blob/main/gato.png" style="width: 375px;"/>
+</p>
+
+### Área 5 - Mesa de Chá
+
+<p align="center">
+       <img src="https://github.com/tech-espm/inter-1sem-2025-manalistas/blob/main/mesadecha.png" style="width: 375px;"/>
+</p>
+
+### Área 6 - Árvore Início
+
+<p align="center">
+       <img src="https://github.com/tech-espm/inter-1sem-2025-manalistas/blob/main/arvore.png" style="width: 375px;"/>
+</p>
+
 ## Desenvolvimento
 
-Adicionar desenvolvimento
+Descrição da implementação do código criado na solução, incluindo o link do repositório público do projeto no GitHub. 
+A descrição do código não pode se limitar a prints de tela do código, devendo incluir os trechos de código em si, além de uma descrição textual explicando o que cada trecho faz. 
+O projeto foi desenvolvido com base na API do Minecraft Education Edition, utilizando funções que combinam interações com o jogador, desenho de formas e execução de algoritmos geométricos
 
 ## Conclusões
 
-Adicionar conclusão
+Este projeto sugere uma interpretação interativa do livro "Alice no País das Maravilhas", de Lewis Carroll, no mundo do Minecraft. A proposta não se limita à reprodução estética dos cenários e personagens; ela visa converter o conteúdo simbólico, filosófico e lógico da obra em experiências digitais que incentivem o pensamento crítico e a criatividade do jogador. Ao empregar o potencial criativo do Minecraft, são investigados tópicos como identidade, linguagem, lógica e realidade, que estão presentes em toda a narrativa de Alice, ligando-os a questões atuais e às oportunidades oferecidas pelo metaverso. 
+
+O trabalho tem impacto em três áreas principais: a educacional, ao converter conceitos filosóficos em experiências lúdicas e acessíveis; a tecnológica, ao empregar as ferramentas de construção do Minecraft de maneira conceitual e narrativa; e a cultural, ao combinar elementos literários clássicos com linguagens digitais contemporâneas, criando uma conexão entre tradição e inovação. 
+
+Os principais resultados do projeto incluem a ambientação conceitual dos cenários, nos quais cada área do mapa foi projetada para representar momentos significativos da obra, com construções que refletem o simbolismo e os paradoxos presentes no livro. Além disso, há uma integração entre filosofia e gameplay, em que elementos do existencialismo, da filosofia da linguagem e do nonsense foram transformados em desafios interativos, incentivando o jogador a refletir durante a exploração. 
+
+Outro resultado importante foi o estímulo à criatividade e à interpretação. Os ambientes construídos vão além da função decorativa, instigando uma leitura subjetiva por parte do jogador e promovendo o questionamento, a curiosidade e o envolvimento com o conteúdo. Por fim, destaca-se a prototipagem funcional no Minecraft: foi possível criar um mapa com experiências jogáveis, o que demonstra o domínio da ferramenta e a capacidade de utilizá-la como meio de expressão criativa e crítica. 
 
 # Licença
 
